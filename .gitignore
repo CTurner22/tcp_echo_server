@@ -1,0 +1,5 @@
+cturner1*
+.idea
+cmake-build-debug/
+*.o
+*.tar
